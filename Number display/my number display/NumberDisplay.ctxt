@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=newLimit
+comment0.target=NumberDisplay(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumberDisplay\r\n
+comment1.params=newValue
+comment1.target=void\ setValue(int)
+comment1.text=\r\n\ Fija\ el\ valor\ del\ atributo\ valor\ a\ uno\ dado.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDisplayValue()
+comment2.text=\r\n\ Devuelve\ una\ cadena\ de\ 2\ caracteres\ con\ el\r\n\ valor\ de\ un\ atributo\ value.\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Devuelve\ el\ valor\ actual\ del\ atributo\ value.\r\n
+comment4.params=
+comment4.target=void\ increment()
+comment4.text=\r\n\ Incrementa\ en\ 1\ el\ valor\ de\ value\ y\ lo\ hace\ volver\ a\ 0\r\n\ si\ alcanza\ el\ l\u00EDmite.\r\n
+numComments=5
